@@ -1,3 +1,1 @@
-- GET, POST de comentarios
-
-
+- Nuevo archivo config.php con datos de conexión BBDD
